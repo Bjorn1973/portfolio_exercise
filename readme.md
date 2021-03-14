@@ -66,3 +66,8 @@ Color: darkgrey
 Font: Montserrat Thin 100
 Font-size: 18
 Color: bluegrey
+
+# Font families
+
+font-family: 'Marvel', sans-serif;
+font-family: 'Montserrat', sans-serif;
