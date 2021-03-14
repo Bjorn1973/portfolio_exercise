@@ -1,20 +1,20 @@
 # Logo
 
 Font: Marvel Bold 700
-Font-size: 7rem
+Font-size: 70px
 Color: bluegrey
 
 # Nav items
 
 Font: Montserrat Regular 400
-Font-size: 26
+Font-size: 26px
 Color: greyblue
 Color hover & active: Greenish
 
 # Main text
 
 Font: Montserrat Regular 400
-Font-size: 26
+Font-size: 26px
 Color: bluegrey
 
 # Main text svg
@@ -36,13 +36,13 @@ Color: darkgrey
 # Card title
 
 Font: Montserrat Medium 500
-Font-size: 40
+Font-size: 40px
 Color: darkgrey
 
 # Card text
 
 Font: Montserrat Regular 400
-Font-size: 25
+Font-size: 25px
 Color: darkgrey
 
 # Quote bg
@@ -64,7 +64,7 @@ Color: darkgrey
 # Footer
 
 Font: Montserrat Thin 100
-Font-size: 18
+Font-size: 18px
 Color: bluegrey
 
 # Font families
